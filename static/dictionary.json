@@ -5,8 +5,40 @@
       "sealang": "d",
       "type": "verb",
       "meaning": "exist.",
-      "example": "There is a fish on the table.",
-      "exampleSealang": "d"
+      "example": "I will not be alive.",
+      "exampleSealang": "dC?V?sD??"
+    },
+    {
+      "english": "being",
+      "sealang": "dD",
+      "type": "noun",
+      "meaning": "existence / a person.",
+      "example": "This person is my brother.",
+      "exampleSealang": "dD"
+    },
+    {
+      "english": "have",
+      "sealang": "e",
+      "type": "verb",
+      "meaning": "possess.",
+      "example": "I have a fish.",
+      "exampleSealang": "e"
+    },
+    {
+      "english": "living",
+      "sealang": "sD",
+      "type": "noun",
+      "meaning": "Something that is alive / A living being.",
+      "example": "I am a living being.",
+      "exampleSealang": ""
+    },
+    {
+      "english": "live",
+      "sealang": "s",
+      "type": "verb",
+      "meaning": "to be alive.",
+      "example": "I live in a house.",
+      "exampleSealang": "s"
     }
   ]
 }
