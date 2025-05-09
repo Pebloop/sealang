@@ -63,7 +63,7 @@
 
 	<div class="flex flex-row items-center justify-center mb-5">
 		<button on:click={toggleRegister} class="bg-blue-500 text-white font-bold py-2 px-4 rounded">
-			{isRegistering ? 'Stop Registering' : 'Start Registering'}
+			{isRegistering ? 'Stop Recording' : 'Start Recording'}
 		</button>
 		<p class="font-sealang text-6xl border-2 w-16 h-16 text-center ml-5">{arrayToChar(character)}</p>
 	</div>
