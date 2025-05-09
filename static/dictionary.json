@@ -39,6 +39,30 @@
       "meaning": "to be alive.",
       "example": "I live in a house.",
       "exampleSealang": "s"
+    },
+    {
+      "english": "prey",
+      "sealang": "fD",
+      "type": "noun",
+      "meaning": "an animal that is hunted.",
+      "example": "The prey of a sea dragon is a fish.",
+      "exampleSealang": "fD"
+    },
+    {
+      "english": "fish",
+      "sealang": "fD",
+      "type": "noun",
+      "meaning": "a water animal.",
+      "example": "I have a fish.",
+      "exampleSealang": "eA?fD??"
+    },
+    {
+      "english": "eat",
+      "sealang": "f",
+      "type": "verb",
+      "meaning": "to consume food.",
+      "example": "I eat fish.",
+      "exampleSealang": "fA?fD??"
     }
   ]
 }
