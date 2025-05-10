@@ -7,8 +7,8 @@
 		<a href="/grammar" class="text-white text-2xl pr-4">Grammar</a>
 		<hr class="h-8 border-l-2 border-white"/>
 		<a href="/dictionary" class="text-white text-2xl px-4">Dictionary</a>
-		<hr class="h-8 border-l-2 border-white"/>
-		<a href="/history" class="text-white text-2xl px-4">History</a>
+		<!--<hr class="h-8 border-l-2 border-white"/>
+		<a href="/history" class="text-white text-2xl px-4">History</a>-->
 		<hr class="h-8 border-l-2 border-white"/>
 		<a href="/write" class="text-white text-2xl px-4">Write</a>
 	</div>
